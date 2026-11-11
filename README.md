@@ -1,5 +1,7 @@
 # payout-harness
 
+[![ci](https://github.com/olya-piatak/payout-harness/actions/workflows/ci.yml/badge.svg)](https://github.com/olya-piatak/payout-harness/actions/workflows/ci.yml)
+
 A test harness for asynchronous money movement, and proof that it catches the
 things it was built to catch.
 
